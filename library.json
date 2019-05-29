@@ -1,0 +1,20 @@
+{
+  "name": "Signer",
+  "keywords": "blockchain, ethereum, smartcontract, iot",
+  "description": "This is an Arduino (or ESP8266) library to sign data, generate keys and sign transactions for ethereum.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kungfupizza/Signer"
+  },
+  "authors":
+  {
+    "name": "Sarthak Kelapure",
+    "email": "sarthak.kelapure@gmail.com"
+  },
+  "version": "0.0.2",
+  "examples": "examples/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif"
+  ]
+}

@@ -1,0 +1,31 @@
+########################################################
+# Class
+###################################################################
+
+Signer	KEYWORD1
+
+###################################################################
+# Methods and Functions
+###################################################################
+
+generateTransaction	KEYWORD2
+setTransactionData	KEYWORD2
+setNonce	KEYWORD2
+setReceiveAddr	KEYWORD2
+setValue	KEYWORD2
+setPrivKey	KEYWORD2
+setChainId	KEYWORD2
+setGasLimit	KEYWORD2
+setGasPrice	KEYWORD2
+signText	KEYWORD2
+getPrivKey	KEYWORD2
+getPubKey	KEYWORD2
+generateKeys	KEYWORD2
+
+
+###################################################################
+# Constants
+###################################################################
+
+PRIVATE_KEY KEYWORD3
+PUBLIC_KEY KEYWORD3
