@@ -1,3 +1,7 @@
+/*
+    Author: Sarthak
+*/
+
 #ifndef Signer_h
 
 #define Signer_h
