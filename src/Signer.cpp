@@ -1,3 +1,7 @@
+/*
+    Author: Sarthak
+*/
+
 #include "Signer.h"
 
 tx transaction;
